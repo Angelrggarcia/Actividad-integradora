@@ -25,3 +25,5 @@ Los roombas se pueden mover a través de sus diferentes estados por medio de las
     apunta al cuarto, ambos entrarán en modo "Debating" donde se decidirá de manera aleatoria quien entrará al cuarto a
     limpiarlo.
 4. Una vez se termine de limpiar un cuarto, el roomba cambiará de "Cleaning" a "Searching".
+
+![image]()
