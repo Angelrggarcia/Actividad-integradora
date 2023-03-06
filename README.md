@@ -29,5 +29,9 @@ Los roombas se pueden mover a través de sus diferentes estados por medio de las
 ## Simulacion
 Al comienzo de la simulacion los roomba comenzaran en la primera fila y comenzaran su busqueda por suciedad, de poco a poco los roombas limpiaran todo el hotel hasta el final de la simulacion donde todo estara limpio 
 
+
+https://user-images.githubusercontent.com/102173232/223217845-9aee2615-ac47-42dd-8a7d-a05558c411f5.mp4
+
+
 ## Repositorio
- 
+ https://github.com/Angelrggarcia/Actividad-integradora
