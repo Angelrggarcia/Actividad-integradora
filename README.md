@@ -7,14 +7,14 @@ robots, de esta manera, los robots pueden interactuar con los cuartos para limpi
 ## Agentes
 ### Roombas
 Los agentes que representarán a los robots pueden estar en 3 diferentes estados:
-- Buscando
-- Decidiendo
-- Limpiando
+- Buscando (verde)
+- Decidiendo (amarillo)
+- Limpiando (azul)
 
 ### Cuartos
 Los agentes que representan los cuartos del hotel tienen 2 estados:
-- Limpio
-- Sucio
+- Limpio (blanco)
+- Sucio (gris)
 
 ### Reglas
 Los roombas se pueden mover a través de sus diferentes estados por medio de las siguientes reglas:
@@ -26,4 +26,5 @@ Los roombas se pueden mover a través de sus diferentes estados por medio de las
     limpiarlo.
 4. Una vez se termine de limpiar un cuarto, el roomba cambiará de "Cleaning" a "Searching".
 
-![image](https://github.com/Angelrggarcia/Actividad-integradora/blob/main/Roomba.gif)
+## Simulacion
+Al comienzo de la simulacion los roomba comenzaran en la primera fila y comenzaran su busqueda por suciedad, de poco a poco los roombas limpiaran todo el hotel hasta el final de la simulacion donde todo estara limpio 
