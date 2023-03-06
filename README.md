@@ -26,4 +26,4 @@ Los roombas se pueden mover a través de sus diferentes estados por medio de las
     limpiarlo.
 4. Una vez se termine de limpiar un cuarto, el roomba cambiará de "Cleaning" a "Searching".
 
-![image]()
+![image](https://github.com/Angelrggarcia/Actividad-integradora/blob/main/Roomba.gif)
